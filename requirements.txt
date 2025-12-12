@@ -1,0 +1,16 @@
+streamlit==1.52.1
+torch==2.7.1+cu118
+torchaudio==2.7.1+cu118
+torchvision==0.22.1+cu118
+ultralytics==8.3.235
+ultralytics-thop==2.0.18
+opencv-python==4.12.0.88
+numpy==2.2.6
+pandas==2.3.3
+matplotlib==3.10.7
+altair==6.0.0
+google-ai-generativelanguage==0.6.15
+google-generativeai==0.8.5
+pyyaml==6.0.3
+requests
+tqdm
